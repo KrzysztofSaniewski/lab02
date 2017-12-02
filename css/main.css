@@ -1,6 +1,5 @@
-.bodybacground {
-	color: red
-}
+body {
+background-color: red;}
 .navigation__list {
     list-style-type: none;
     width:  1140px;
