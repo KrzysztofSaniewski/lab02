@@ -1,6 +1,16 @@
+body{
+	background-color: red;
+}
+
+=======
 body {
+<<<<<<< HEAD
 	background-color: fuchsia;
 }
+=======
+background-color: red;}
+>>>>>>> master
+>>>>>>> master
 .navigation__list {
     list-style-type: none;
     width:  1140px;
