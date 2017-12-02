@@ -4,8 +4,14 @@ body{
 
 =======
 body {
+<<<<<<< Updated upstream
 background-color: red;}
 >>>>>>> master
+=======
+background-color: red;
+}
+
+>>>>>>> Stashed changes
 .navigation__list {
     list-style-type: none;
     width:  1140px;
