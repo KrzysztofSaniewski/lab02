@@ -1,5 +1,11 @@
+body{
+	background-color: red;
+}
+
+=======
 body {
 background-color: red;}
+>>>>>>> master
 .navigation__list {
     list-style-type: none;
     width:  1140px;
@@ -24,3 +30,7 @@ background-color: red;}
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+
+body {
+	background-color: pink;
+}
