@@ -1,3 +1,7 @@
+body {
+    background: #C44D64
+}
+
 .navigation__list {
     list-style-type: none;
     width:  1140px;
